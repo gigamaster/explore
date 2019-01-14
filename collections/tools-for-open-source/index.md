@@ -6,7 +6,7 @@ items:
  - Netflix/hubcommander
  - github-changelog-generator/github-changelog-generator
  - servo/homu
- - zeke/ghwd
+ - github-modules/ghwd
  - jlord/offline-issues
  - greenkeeperio/greenkeeper
  - probot/stale
@@ -26,6 +26,7 @@ items:
  - lerna/lerna
  - marmelab/sedy
  - badges/shields
+ - bitrise-io/bitrise
 display_name: Tools for Open Source
 created_by: mozzadrella
 image: tools-for-open-source.png
